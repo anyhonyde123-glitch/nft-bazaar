@@ -1,5 +1,7 @@
 # 🟢 NFT Bazaar — Green Belt
 
+[![Live demo](https://img.shields.io/badge/live%20demo-nft--bazaar.onrender.com-a855f7?style=for-the-badge)](https://nft-bazaar.onrender.com)
+
 [![CI](https://github.com/anyhonyde123-glitch/nft-bazaar/actions/workflows/ci.yml/badge.svg)](https://github.com/anyhonyde123-glitch/nft-bazaar/actions/workflows/ci.yml)
 [![Network](https://img.shields.io/badge/network-Stellar%20Testnet-7e22ce)](https://stellar.expert/explorer/testnet)
 [![Tests](https://img.shields.io/badge/tests-27%20passing-22c55e)](#-tests)
@@ -9,7 +11,7 @@ A three-contract NFT marketplace on Stellar Soroban demonstrating **3 inter-cont
 
 > **Stellar Frontend Challenge — Level 4 (Green Belt) submission.**
 
-**🌐 Live demo:** _Add the deployed URL here once Render finishes building._
+**🌐 Try it now → https://nft-bazaar.onrender.com**
 
 ---
 
@@ -279,7 +281,7 @@ Open the live demo on a phone (or Chrome DevTools → mobile mode 375 × 667). T
 - [x] **GitHub Actions CI** (cargo test + frontend build + dist artifact)
 - [x] **10+ meaningful commits** in repo history
 - [x] **Render Blueprint** (`render.yaml`) for one-click deploy
-- [ ] Live deploy URL (paste here once Render finishes build)
+- [x] **Live deploy URL: https://nft-bazaar.onrender.com**
 
 ---
 
