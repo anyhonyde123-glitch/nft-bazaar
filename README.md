@@ -1,6 +1,6 @@
 # 🟢 NFT Bazaar — Green Belt
 
-[![CI](https://github.com/anyhonyde123-glitch/greenbelt/actions/workflows/ci.yml/badge.svg)](https://github.com/anyhonyde123-glitch/greenbelt/actions/workflows/ci.yml)
+[![CI](https://github.com/anyhonyde123-glitch/nft-bazaar/actions/workflows/ci.yml/badge.svg)](https://github.com/anyhonyde123-glitch/nft-bazaar/actions/workflows/ci.yml)
 [![Network](https://img.shields.io/badge/network-Stellar%20Testnet-7e22ce)](https://stellar.expert/explorer/testnet)
 [![Tests](https://img.shields.io/badge/tests-27%20passing-22c55e)](#-tests)
 [![License](https://img.shields.io/badge/license-MIT-a855f7)](#-license)
@@ -153,7 +153,7 @@ nft-bazaar/
 
 ### Run locally
 ```bash
-git clone https://github.com/anyhonyde123-glitch/greenbelt.git nft-bazaar
+git clone https://github.com/anyhonyde123-glitch/nft-bazaar.git
 cd nft-bazaar
 npm install
 
@@ -254,7 +254,7 @@ The buyer signs **one** transaction; Soroban's auth framework propagates `requir
 
 ### CI/CD pipeline
 
-![CI status](https://github.com/anyhonyde123-glitch/greenbelt/actions/workflows/ci.yml/badge.svg)
+![CI status](https://github.com/anyhonyde123-glitch/nft-bazaar/actions/workflows/ci.yml/badge.svg)
 
 The CI badge above is live — it goes green when both jobs (`Build + Test contracts` and `Build frontend`) succeed on `main`.
 
