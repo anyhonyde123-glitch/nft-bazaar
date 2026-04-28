@@ -27,9 +27,9 @@ Users **mint** NFTs (open mint, anyone can create), **claim** free `BAZ` tokens 
 
 | Contract           | Address | Explorer |
 | ------------------ | ------- | -------- |
-| **NFT** (BZR)      | `<paste VITE_NFT_ID>` | [view](https://stellar.expert/explorer/testnet) |
-| **Payment** (BAZ)  | `<paste VITE_PAYMENT_ID>` | [view](https://stellar.expert/explorer/testnet) |
-| **Marketplace**    | `<paste VITE_MARKETPLACE_ID>` | [view](https://stellar.expert/explorer/testnet) |
+| **NFT** (BZR)      | `CDWSPPA55HFRPLUYEIRSY4BDCYOGJAYZEFI7JNDMS422QUF2RAWC3JLL` | [view](https://stellar.expert/explorer/testnet/contract/CDWSPPA55HFRPLUYEIRSY4BDCYOGJAYZEFI7JNDMS422QUF2RAWC3JLL) |
+| **Payment** (BAZ)  | `CB6PLDFF6QPDV3YBTIDYWONLMGYMZMQSTH2UI2IUJAW6J6UMEYC3B2JB` | [view](https://stellar.expert/explorer/testnet/contract/CB6PLDFF6QPDV3YBTIDYWONLMGYMZMQSTH2UI2IUJAW6J6UMEYC3B2JB) |
+| **Marketplace**    | `CAFMVYB4QHR6DYBOWTSNLS2YZHVVMRZ45KMZRWP2S5HW4NQ52TQZIEUW` | [view](https://stellar.expert/explorer/testnet/contract/CAFMVYB4QHR6DYBOWTSNLS2YZHVVMRZ45KMZRWP2S5HW4NQ52TQZIEUW) |
 
 > The deploy script (`scripts/deploy.ps1`) prints these IDs and writes them to `.env.local` automatically.
 
@@ -37,12 +37,10 @@ Users **mint** NFTs (open mint, anyone can create), **claim** free `BAZ` tokens 
 
 | Action | Tx hash |
 | ------ | ------- |
-| NFT contract deploy   | `<paste hash>` |
-| Payment deploy + init | `<paste hash>` |
-| Marketplace deploy    | `<paste hash>` |
-| Faucet claim          | `<paste hash>` |
-| List NFT              | `<paste hash>` |
-| Buy NFT (3-call tx)   | `<paste hash>` |
+| NFT contract deploy   | [`3ba2fa13c1b6459ad7893b438b5233b7ef21e149423dfa86264c331e69c6e428`](https://stellar.expert/explorer/testnet/tx/3ba2fa13c1b6459ad7893b438b5233b7ef21e149423dfa86264c331e69c6e428) |
+| Payment contract deploy | [`fa788500405b8266ef4adcf15554bf61dfcf30d9d411944f92dfe47e068c3098`](https://stellar.expert/explorer/testnet/tx/fa788500405b8266ef4adcf15554bf61dfcf30d9d411944f92dfe47e068c3098) |
+| Marketplace deploy    | [`845e9eebb022d87cb1f0490c124dd12ab3bb79bc27a563c2a23007aceaf61b09`](https://stellar.expert/explorer/testnet/tx/845e9eebb022d87cb1f0490c124dd12ab3bb79bc27a563c2a23007aceaf61b09) |
+| Marketplace init      | [`72e654a0dd02495a0f5d322243d20684be1a78415e499ca94cb74c12743e7b3c`](https://stellar.expert/explorer/testnet/tx/72e654a0dd02495a0f5d322243d20684be1a78415e499ca94cb74c12743e7b3c) |
 
 ---
 
