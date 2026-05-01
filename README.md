@@ -14,6 +14,7 @@ A three-contract NFT marketplace on Stellar Soroban demonstrating **3 inter-cont
 **🌐 Try it now → https://nft-bazaar.onrender.com**
 
 ---
+## Demo video here:- https://drive.google.com/file/d/1zXbs6-TENiKaZ2N4S27JlM3VOIqyZoYA/view?usp=sharing
 
 ## 🎯 What it does
 
